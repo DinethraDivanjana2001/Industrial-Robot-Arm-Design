@@ -26,15 +26,22 @@ The design and mechanism of the industrial robotic arm are critical to its funct
 
 ## Project Structure
 
+<!-- 2x2 Image Grid -->
+<p align="center">
+  <img src="1.jpeg" alt="Design Image 1" width="45%">
+  <img src="2.jpeg" alt="Design Image 2" width="45%">
+</p>
+<p align="center">
+  <img src="3.jpeg" alt="Design Image 3" width="45%">
+  <img src="4.jpeg" alt="Design Image 4" width="45%">
+</p>
 
 ## Setup Instructions
-
-
 
 ## Contact
 
 For any questions or suggestions, please contact:
 
 - Name: Dinethra Rajapaksha
-- Email: [divanjanad@gmail.com](divanjanad@gmail.com)
+- Email: [divanjanad@gmail.com](mailto:divanjanad@gmail.com)
 - YouTube: [YouTube](https://youtu.be/g4LXN7eKzL0)
