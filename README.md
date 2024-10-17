@@ -36,5 +36,5 @@ The design and mechanism of the industrial robotic arm are critical to its funct
 For any questions or suggestions, please contact:
 
 - Name: Dinethra Rajapaksha
-- Email: [divanjanad@gmail.com](mailto:divanjanad@gmail.com)
-- YouTube: [YouTube](mailto:https://youtu.be/g4LXN7eKzL0)
+- Email: [divanjanad@gmail.com](divanjanad@gmail.com)
+- YouTube: [YouTube](https://youtu.be/g4LXN7eKzL0)
