@@ -26,24 +26,14 @@ The design and mechanism of the industrial robotic arm are critical to its funct
 
 ## Project Structure
 
-- `docs/`: Documentation files related to design and mechanism
-- `3d-models/`: 3D design files and CAD models
-- `src/`: Source code for control algorithms
-- `hardware/`: Hardware design files and blueprints
-- `tests/`: Test cases and testing scripts
 
 ## Setup Instructions
 
-To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/industrial-robotic-arm.git`
-2. Navigate to the project directory: `cd industrial-robotic-arm`
-3. Install necessary dependencies: `npm install` (if applicable)
-4. Follow the instructions in the `docs/` directory for specific setup guides related to design and mechanism.
 
 ## Contact
 
 For any questions or suggestions, please contact:
 
 - Name: Dinethra Rajapaksha
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [divanjanad@gmail.com](mailto:divanjanad@gmail.com)
