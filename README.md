@@ -25,16 +25,16 @@ The design and mechanism of the industrial robotic arm are critical to its funct
 - **Actuation and Control Mechanisms**: Designing the actuation systems (motors, servos) and control mechanisms to achieve accurate and responsive movements.
 
 ## Project Structure
-
-<!-- 2x2 Image Grid -->
-<p align="center">
-  <img src="1.jpeg" alt="Design Image 1" width="45%">
-  <img src="2.jpeg" alt="Design Image 2" width="45%">
-</p>
-<p align="center">
-  <img src="3.jpeg" alt="Design Image 3" width="45%">
-  <img src="4.jpeg" alt="Design Image 4" width="45%">
-</p>
+<table>
+  <tr>
+    <td><img src="Images/1.jpeg" alt="1" width="500"/></td>
+    <td><img src="Images/2.jpeg" alt="2" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="Images/3.jpeg" alt="3" width="500"/></td>
+    <td><img src="Images/4.jpeg" alt="4" width="500"/></td>
+  </tr>
+</table>
 
 ## Setup Instructions
 
